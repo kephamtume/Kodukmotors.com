@@ -922,7 +922,7 @@ hr{
     border-collapse: collapse;
     margin: 25px 0;
     font-size: 0.9em;
-    min-width: 400px;
+    /* min-width: 400px; */
     height: max-content;
     border-radius: 5px 5px 0 0;
     overflow: hidden;
@@ -1039,16 +1039,16 @@ hr{
     } 
 
     .container {
-        max-width: 500px;
+        max-width: 400px;
         position: relative;
     }
     .container{
-        flex-basis: 80%;
+        flex-basis: 100%;
         margin-left: 0;
 
     }
     .container-text{
-        flex-basis: 80%;
+        flex-basis: 100%;
 
     }
 } 
