@@ -818,17 +818,14 @@ hr{
     background: #fff;
     border-radius: 50%;
     transform: translateY(-50%);
-
 } 
 .wrapper i:first-child{
     left: -23px ;
     display: none;
-
 }
 
 .wrapper i:last-child{
     right: -23px;
-
 }
 
 .wrapper .cars{
@@ -868,13 +865,13 @@ hr{
 @media screen and (max-width: 900px) {
     #group{
         min-height: 100vh;
+    }
     .cars div{
          padding: 1px;
     }
     .wrapper {
         max-width: 900px;
         position: relative;
-    
     }
     .cars img{
         width: calc(100% / 2);
@@ -883,21 +880,20 @@ hr{
 @media screen and (max-width: 550px) {
     #group{
         min-height: 100vh;
+    }
     .cars div{
          padding: 1px;
     }
     .wrapper {
         max-width: 900px;
         position: relative;
-        
-    
     }
     .cars img{
         width:calc(100% / 2);
         height: 150px;
     } 
 }
-}
+
 
 /* groupnew */
 #new-cars{
