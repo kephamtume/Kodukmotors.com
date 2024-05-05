@@ -1043,12 +1043,12 @@ hr{
         position: relative;
     }
     .container{
-        flex-basis: 100%;
+        flex-basis: 80%;
         margin-left: 0;
 
     }
     .container-text{
-        flex-basis: 100%;
+        flex-basis: 80%;
 
     }
 } 
