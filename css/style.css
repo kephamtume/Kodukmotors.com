@@ -877,6 +877,7 @@ hr{
         width: calc(100% / 2);
         height: 150px;
     }
+}
 @media screen and (max-width: 550px) {
     #group{
         min-height: 100vh;
