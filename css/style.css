@@ -8,7 +8,7 @@
 }
 
 #banner{
-    background:linear-gradient(rgba(0, 0, 0, 0.342),#960057), url('../img/mazda_demio_maroon-removebg.png');
+    background:linear-gradient(rgba(0, 0, 0, 0.342),#009688), url('../img/mazda_demio_maroon-removebg.png');
     background-size: cover;
     background-position: center;
     height: 100vh;
