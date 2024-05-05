@@ -164,7 +164,7 @@ nav ul li a{
     #banner{
     background-size: cover;
     background-position: center;
-    height: 70vh;
+    height: 100vh;
     }
     .logo-text{
         font-size: 30px
@@ -241,7 +241,7 @@ nav ul li a{
     #banner{
         background-size: cover;
         background-position: center;
-        height: 70vh;
+        height: 100vh;
         }
     .banner-text h1{
         font-size: 44px;
@@ -334,7 +334,7 @@ nav ul li a{
     #banner{
         background-size: cover;
         background-position: center;
-        height: 70vh;
+        height: 100vh;
         }
     .banner-text h1{
         font-size: 44px;
