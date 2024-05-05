@@ -273,11 +273,11 @@ nav ul li a{
     }
     .banner-btn li:hover .sub__menu ul{
     display: block;
-    margin: 2px;
+    margin: 1px;
     }
     .banner-btn li:hover .sub__menu li{
     width: 50px;
-    padding: 5px;
+    padding: 2px;
     /* border-bottom: 1px dotted #fff; */
     background: transparent;
     border-radius: 0;
