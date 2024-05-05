@@ -400,12 +400,12 @@ nav ul li a{
         display: block;
         /* flex-wrap: nowrap; */
         position: absolute;
-        margin-top: 2px;
+        margin-top: 0.5px;
         margin-left: -15px;
     }
     .banner-btn li:hover .sub__menu ul{
         display: block;
-        margin: 2px;
+        margin: 0.5px;
     }
     .banner-btn li:hover .sub__menu li{
         width: 50px;
