@@ -877,8 +877,8 @@ hr{
     
     }
     .cars img{
-        width: calc(100% / 3);
-        height: 200px;
+        width: calc(100% / 2);
+        height: 150px;
     }
 @media screen and (max-width: 550px) {
     #group{
@@ -893,7 +893,7 @@ hr{
     
     }
     .cars img{
-        width:calc(100% / 3);
+        width:calc(100% / 2);
         height: 150px;
     } 
 }
